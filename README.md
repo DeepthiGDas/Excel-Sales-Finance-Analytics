@@ -62,7 +62,9 @@ This project has shown me the transformative power of data analytics in sales an
 This project underscores the significance of data analytics in enhancing business performance. By leveraging Excel’s advanced features, the project not only provided valuable insights but also demonstrated how data can be a catalyst for growth and innovation.
 
 ### Driving Future Success:
-I am excited to apply these insights and skills to future projects, driving continued growth and success. Thank you for reading.
+I am excited to apply these insights and skills to future projects, driving continued growth and success. 
+
+Thank you for reading.
 
 
 

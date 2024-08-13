@@ -50,6 +50,7 @@ Tools Used: Excel (Pivot Tables)
 ### Finance Reports:
 #### 1) P & L for Markets
 #### 2) P & L By Fiscal Year
+https://github.com/Chikusarath/Excel-Sales-Finance-Analytics/blob/main/P%26L_By_FiscalYears.pdf
 #### 3) P & L By Fiscal Months
 https://github.com/Chikusarath/Excel-Sales-Finance-Analytics/blob/main/P%26L_By_FiscalMonths.pdf
 

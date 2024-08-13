@@ -43,12 +43,12 @@ Tools Used: Excel (Pivot Tables)
 
 ### Sales Reports:
 #### 1) Customer Performance Report
-#### 1) Market Performance Vs Target Report
+#### 2) Market Performance Vs Target Report
 
 ### Finance Reports:
 #### 1) P & L for Markets
-#### 1) P & L By Fiscal Year
-#### 1) P & L By Fiscal Months
+#### 2) P & L By Fiscal Year
+#### 3) P & L By Fiscal Months
 
 ### The Power of Data Analytics:
 This project has shown me the transformative power of data analytics in sales and finance. By leveraging the right tools and techniques, we can unlock new heights of business growth and informed decision-making.

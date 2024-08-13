@@ -42,7 +42,8 @@ Tools Used: Excel (Pivot Tables)
 - Finance Dynamics: Gained a deeper understanding of profit and loss dynamics, informing finance strategies.
 
 ### Sales Reports:
-#### 1) Customer Performance Report
+#### 1) Customer Performance Report 
+(https://github.com/Chikusarath/Excel-Sales-Finance-Analytics/blob/main/Customer_Performance_Report.pdf)
 #### 2) Market Performance Vs Target Report
 
 ### Finance Reports:

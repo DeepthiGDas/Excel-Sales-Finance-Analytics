@@ -66,6 +66,11 @@ I am excited to apply these insights and skills to future projects, driving cont
 
 Thank you for reading.
 
+## Author
+**Deepthi G Das**  
+📧 [deepthigdas@243@gmail.com](mailto:deepthigdas@243@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/deepthi-g-das)
+
 
 
 
